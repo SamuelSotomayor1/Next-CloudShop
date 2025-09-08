@@ -20,19 +20,19 @@ export default function Navbar() {
               href="/products"
               className="text-lg text-gray-700 hover:text-blue-600 hover:scale-105 transition-all duration-200"
             >
-              Products
+              Productos
             </Link>
             <Link
               href="/contact"
               className="text-lg text-gray-700 hover:text-blue-600 hover:scale-105 transition-all duration-200"
             >
-              Contact
+              Contacto
             </Link>
             <Link
               href="/about"
               className="text-lg text-gray-700 hover:text-blue-600 hover:scale-105 transition-all duration-200"
             >
-              About
+              Nosotros
             </Link>
           </div>
 
